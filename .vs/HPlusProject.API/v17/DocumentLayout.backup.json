@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas.gure\\source\\repos\\HPlusProject.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB8C088-70FA-4298-B660-8C4E7A6067A3}|HPlusProject.API\\HPlusProject.API.csproj|c:\\users\\abbas.gure\\source\\repos\\hplusproject.api\\hplusproject.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB8C088-70FA-4298-B660-8C4E7A6067A3}|HPlusProject.API\\HPlusProject.API.csproj|solutionrelative:hplusproject.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB8C088-70FA-4298-B660-8C4E7A6067A3}|HPlusProject.API\\HPlusProject.API.csproj|c:\\users\\abbas.gure\\source\\repos\\hplusproject.api\\hplusproject.api\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB8C088-70FA-4298-B660-8C4E7A6067A3}|HPlusProject.API\\HPlusProject.API.csproj|solutionrelative:hplusproject.api\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB8C088-70FA-4298-B660-8C4E7A6067A3}|HPlusProject.API\\HPlusProject.API.csproj|c:\\users\\abbas.gure\\source\\repos\\hplusproject.api\\hplusproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB8C088-70FA-4298-B660-8C4E7A6067A3}|HPlusProject.API\\HPlusProject.API.csproj|solutionrelative:hplusproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB8C088-70FA-4298-B660-8C4E7A6067A3}|HPlusProject.API\\HPlusProject.API.csproj|c:\\users\\abbas.gure\\source\\repos\\hplusproject.api\\hplusproject.api\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB8C088-70FA-4298-B660-8C4E7A6067A3}|HPlusProject.API\\HPlusProject.API.csproj|solutionrelative:hplusproject.api\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\abbas.gure\\source\\repos\\HPlusProject.API\\HPlusProject.API\\Models\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "HPlusProject.API\\Models\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\abbas.gure\\source\\repos\\HPlusProject.API\\HPlusProject.API\\Models\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "HPlusProject.API\\Models\\ModelBuilderExtensions.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:57:05.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\abbas.gure\\source\\repos\\HPlusProject.API\\HPlusProject.API\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "HPlusProject.API\\Models\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\abbas.gure\\source\\repos\\HPlusProject.API\\HPlusProject.API\\Models\\ShopContext.cs",
+              "RelativeToolTip": "HPlusProject.API\\Models\\ShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:41:25.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas.gure\\source\\repos\\HPlusProject.API\\HPlusProject.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "HPlusProject.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\abbas.gure\\source\\repos\\HPlusProject.API\\HPlusProject.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "HPlusProject.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:22:37.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas.gure\\source\\repos\\HPlusProject.API\\HPlusProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "HPlusProject.API\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas.gure\\source\\repos\\HPlusProject.API\\HPlusProject.API\\Program.cs",
+              "RelativeToolTip": "HPlusProject.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T21:47:27.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
